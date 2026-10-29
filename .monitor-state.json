@@ -1,5 +1,7 @@
 {
   "schema_version": 1,
   "last_check_date_utc": "2026-10-29",
-  "active": {}
+  "active": {
+    "simulation|告警邮件测试（网站未变更）|simulated_alert": 2
+  }
 }
